@@ -11,3 +11,4 @@ A modular, extensible, and production-ready toolkit for diagnosing Linux systems
 Each script is standalone and scoped to a specific system layer:
 
 check_disk_usage.sh -->	Show disk space, largest files, inode usage
+check_cpu_usage.sh  -->	Top CPU processes, load average, per-core stats
